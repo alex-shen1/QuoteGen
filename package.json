@@ -36,6 +36,6 @@
   },
   "devDependencies": {
     "gh-pages": "^2.2.0",
-    "mathjs": "^6.6.4"
+    "mathjs": "^7.5.1"
   }
 }
